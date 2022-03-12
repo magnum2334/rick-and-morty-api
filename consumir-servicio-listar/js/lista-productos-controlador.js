@@ -11,7 +11,7 @@ let mostrar_datos = async() => {
             if(productos[i].status === "Alive") {
                return `<strong>🟢 ${productos[i].status}</strong>`
             }else if(productos[i].status === "Dead"){
-                return `💀 <strong>${productos[i].status}</strong>`
+                return `💀<strong>${productos[i].status}</strong>`
             }else{
                 return `<strong> ⚫ ${productos[i].status}</strong>`
             }
