@@ -1,0 +1,15 @@
+.header{
+    background: rgb(59, 167, 209);
+    color: aliceblue;
+    font-size: 1.5em;
+    padding-left: 5em;
+    padding:1.2em;
+}
+.img{
+    border-radius:150px;
+    width:65px;
+    height:65px;
+}
+.space{
+    width:27%
+}
